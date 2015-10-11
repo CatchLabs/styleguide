@@ -1,0 +1,12 @@
+{
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "ecmaFeatures": {
+        "blockBindings": true
+    },
+    "rules": {
+        "semi": 2
+    }
+}
